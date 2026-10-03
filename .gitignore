@@ -1,0 +1,6 @@
+iris_cls/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.pytest_cache/
